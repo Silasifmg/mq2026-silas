@@ -1,0 +1,19 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# R e RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Quarto
+.quarto/
+*_cache/
+*.quarto_ipynb
+
+# Credenciais e dados não publicáveis
+.Renviron
+.env
+.env.*

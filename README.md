@@ -1,1 +1,3 @@
-# mq2026-silas
+# Métodos Quantitativos Aplicados à Administração
+
+**Estudante:** Seu nome completo
